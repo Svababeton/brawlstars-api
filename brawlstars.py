@@ -9,7 +9,7 @@ def get_choice():
 (2) get data about a club\n
 (3) get data about all brawler\n
 (4) get the current game mode + map\n
-(5) get the coins and powerpoints your spent\n
+(5) get the coins and powerpoints you spent\n
 (6) get the percentage of how many brawler you have on lvl 11, lvl 10 ...\n
 (7) Are you in the top 200 leaderboard of your country?
                        
